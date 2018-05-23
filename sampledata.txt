@@ -1,0 +1,7 @@
+About W3C Standards
+W3C Standards Participate Membership
+About W3C Site Navigation Standards Web Design and Applications 
+Web Architecture Semantic Web XML Technology Web of Services Web of Devices Browsers and Authoring Tools All Standards and Drafts About W3C Standards
+intro to standards
+ • value of creating standards at w3c • business case for standards • introduction to standards-based design Most W3C work revolves around the standardization of Web technologies. To accomplish this work, W3C follows processes that promote the development of high-quality standards based on the consensus of the comsor / Donate Site Map Feedback W3C Updates Copyright © 2012 W3C ® ( MIT , ERCIM , Keio, Beihang) Usage policies apply.
+munity. W3C 
